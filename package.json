@@ -1,6 +1,6 @@
 {
   "name": "nibbler-normalize",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Normalize a nibbler playbook",
   "main": "index.js",
   "scripts": {
