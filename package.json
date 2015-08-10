@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/mmalecki/nibbler-normalize",
   "dependencies": {
+    "async": "~1.4.2",
     "nibbler-exec": "~0.1.0"
   }
 }
